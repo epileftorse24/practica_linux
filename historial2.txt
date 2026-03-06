@@ -1,0 +1,6 @@
+    1  cd
+    2  ls
+    3  cd mysite
+    4  unzip libro_claude_api.zip
+    5  ls
+    6  history > historial2.txt
